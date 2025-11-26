@@ -1,2 +1,8 @@
-# machine-learning-classificacao-sklearn
+# 🖥️🔬 Laboratório para Machine Learning com SKLearn
+
 Laboratório realizado durante o curso: Machine Learning: classificação com SKLearn (ALURA)
+
+# 🎲 Base de dados
+
+A base utilizada para esse laboratório encontra-se disponível no GitHub da Alura:
+- https://github.com/alura-cursos/introducao-a-classificacao
